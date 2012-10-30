@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Alteração nova
-=======
-Alteração antiga
->>>>>>> 03143c4cdb7609726db223594ba89f5d91367b8a
